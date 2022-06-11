@@ -25,8 +25,11 @@ class Main
     public static void main (String[]args) 
     {
         Scanner sc = new Scanner (System.in);
+        System.out.println("Enter Number of rats");
         int r = sc.nextInt ();
+        System.out.println("Enter Number of unites food consumed by each rat");
         int unit = sc.nextInt ();
+        System.out.println("Enter Number of house");
         int n = sc.nextInt ();
         int arr[] = new int[n];
 
