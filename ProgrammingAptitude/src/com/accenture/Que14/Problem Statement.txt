@@ -7,7 +7,8 @@ You are required to implement the following function:
 
 Int Calculate(int m, int n);
 
-The function accepts 2 positive integer ‘m’ and ‘n’ as its arguments.You are required to calculate the sum of numbers divisible both by 3 and 5, between ‘m’ and ‘n’ both inclusive and return the same.
+The function accepts 2 positive integer ‘m’ and ‘n’ as its arguments.
+You are required to calculate the sum of numbers divisible both by 3 and 5, between ‘m’ and ‘n’ both inclusive and return the same.
 Note
 0 < m <= n
 

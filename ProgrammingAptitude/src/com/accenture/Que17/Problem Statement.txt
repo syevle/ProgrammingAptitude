@@ -1,5 +1,6 @@
 Question : 17
-Instructions: You are required to write the code. You can click on compile and run anytime to check compilation/execution status. The code should be logically/syntactically correct.
+Instructions: You are required to write the code.
+You can click on compile and run anytime to check compilation/execution status. The code should be logically/syntactically correct.
 
 Question: Write a program in C such that it takes a lower limit and upper limit as inputs and print all the intermediate palindrome numbers.
 
