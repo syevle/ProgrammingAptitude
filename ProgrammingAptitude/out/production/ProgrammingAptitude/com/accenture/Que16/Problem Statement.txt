@@ -1,5 +1,6 @@
 Question : 16
-Instructions: You are required to write the code. You can click on compile and run anytime to check compilation/execution status. The code should be logically/syntactically correct.
+Instructions: You are required to write the code.
+You can click on compile and run anytime to check compilation/execution status. The code should be logically/syntactically correct.
 
 Problem: Write a program in C to display the table of a number and print the sum of all the multiples in it.
 

@@ -1,6 +1,8 @@
 Question : 18
 
-Instructions: You are required to write the code. You can click on compile & run anytime to check the compilation/ execution status of the program. The submitted code should be logically/syntactically correct and pass all the test cases.
+Instructions: You are required to write the code.
+You can click on compile & run anytime to check the compilation/ execution status of the program.
+The submitted code should be logically/syntactically correct and pass all the test cases.
 
 Ques: The program is supposed to calculate the distance between three points.
 
